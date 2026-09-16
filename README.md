@@ -5,6 +5,7 @@ Format, beautify, and minify SQL — fast, free, and 100% client-side. Your inpu
 **Live:** https://techshield-tech.github.io/sql-formatter/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/sql-formatter](https://mmoall.com/tools/sql-formatter).
 
 ## Features
 
