@@ -5,7 +5,7 @@
     "": {
       "name": "json-formatter",
       "dependencies": {
-        "@mmoall/tool-kit": "github:techshield-tech/tool-kit#v0.1.0",
+        "@mmoall/tool-kit": "github:techshield-tech/tool-kit#v0.2.0",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "sql-formatter": "^15.8.2",
@@ -119,7 +119,7 @@
 
     "@jridgewell/trace-mapping": ["@jridgewell/trace-mapping@0.3.31", "", { "dependencies": { "@jridgewell/resolve-uri": "^3.1.0", "@jridgewell/sourcemap-codec": "^1.4.14" } }, "sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw=="],
 
-    "@mmoall/tool-kit": ["@mmoall/tool-kit@github:techshield-tech/tool-kit#86da83b", { "dependencies": { "@tailwindcss/vite": "^4.0.0", "@vitejs/plugin-react": "^4.3.4", "tailwindcss": "^4.0.0" }, "peerDependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" } }, "techshield-tech-tool-kit-86da83b", "sha512-4rG7PgPSayrrkS+oYUPbfO04Kt41EWiOYWW8s+6+9u5+nS4cpsn8+0M+bibZ1TeSprnXEPJeO3Rc+Yj6aHa7iQ=="],
+    "@mmoall/tool-kit": ["@mmoall/tool-kit@github:techshield-tech/tool-kit#8e69536", { "dependencies": { "@tailwindcss/vite": "^4.0.0", "@vitejs/plugin-react": "^4.3.4", "tailwindcss": "^4.0.0" }, "peerDependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" } }, "techshield-tech-tool-kit-8e69536", "sha512-Z6idIAVk8VJqqKn9Gq2T13ZbvRWXvLXMJnlH2Eh1QCY2yMlHT1MRL36bPCyxMKLOuPt5qmfSe8vqLW/dXVJpVA=="],
 
     "@napi-rs/lzma-linux-x64-gnu": ["@napi-rs/lzma-linux-x64-gnu@1.5.1", "", { "os": "linux", "cpu": "x64" }, "sha512-oTXEIha4SsuXdTA4Iyskj0kpdx2yVXdhd75c2v3xGrHFfVMsbhTPZU/nMPL4sWKo4pBHm3aucLaqGlF696dTyQ=="],
 
